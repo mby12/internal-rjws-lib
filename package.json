@@ -1,5 +1,5 @@
 {
-    "name": "stimulsoft-reports-js",
+    "name": "mby-stimulsoft-reports-js",
     "version": "2022.2.6",
     "description": "Stimulsoft Reports.JS is a reporting tool for Node.js",
     "main": "index.js",
